@@ -63,7 +63,7 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/nguyenbuithoi1997" target="blank">
     <img width="90" height="90" src="images/logo-nguyenbuithoi1997-transparent-bg-192x192.png" alt="nguyenbuithoi1997-blog" />
   </a>
@@ -82,7 +82,7 @@
   <a href="mailto:datnt.ithust@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenbuithoi1997-email" />
   </a>
-</div>
+</div> -->
 
 <br>
 
