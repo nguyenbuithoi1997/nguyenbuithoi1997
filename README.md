@@ -215,7 +215,7 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 
 *   Compact layout
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbuithoi1997\&layout=compact)
 
 *   Donut Chart layout
 
@@ -252,7 +252,7 @@ Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 *   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenbuithoi1997\&layout=compact)
 
 ***
 
