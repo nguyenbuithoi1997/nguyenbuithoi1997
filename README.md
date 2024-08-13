@@ -59,6 +59,8 @@
   <a href="#" title="Ntdat104">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenbuithoi1997&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbuithoi1997\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 </div>
 
 <br>
@@ -298,7 +300,7 @@ Choose from any of the [default themes](#themes)
 
 *   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbuithoi1997\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
 
 *   Customizing stats card
 
