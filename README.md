@@ -1,5 +1,5 @@
 <!-- https://simpleicons.org/ -->
-<h2 align="center">🛠 Programming Language 🛠</h2>
+<h2 align="center"> Programming Language </h2>
 <br>
   <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
@@ -19,7 +19,7 @@
   &nbsp;
 <br>
 
-<h2 align="center">🛠 Framework and library 🛠</h2>
+<h2 align="center"> Framework and library </h2>
 <br>
   <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
   &nbsp;
@@ -43,7 +43,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Intellij-282C34?logo=intellij&logoColor=007ACC" alt="Intellij logo" title="Intellij" height="25" /></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
