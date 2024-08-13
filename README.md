@@ -2,7 +2,7 @@
 <h2 align="center">🛠 Programming Language 🛠</h2>
   <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Php-282C34?logo=Php&logoColor=F7DF1E" alt="Php logo" title="Php" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PHP-282C34?logo=Php&logoColor=F7DF1E" alt="Php logo" title="Php" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
