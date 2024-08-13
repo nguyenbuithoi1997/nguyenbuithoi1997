@@ -54,11 +54,10 @@
 <br>
 <div align=center>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbuithoi1997)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbuithoi1997\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenbuithoi1997)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbuithoi1997)
+
 </div>
 
 <br>
