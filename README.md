@@ -17,6 +17,8 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Sql-282C34?logo=sass&logoColor=CC6699" alt="Sql logo" title="SQL" height="25" /></span>
+  &nbsp;
 <br>
 
 <h2 align="center"> Framework and library </h2>
