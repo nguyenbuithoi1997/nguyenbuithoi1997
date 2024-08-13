@@ -1,5 +1,6 @@
 <!-- https://simpleicons.org/ -->
 <h2 align="center">🛠 Programming Language 🛠</h2>
+<br>
   <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/PHP-282C34?logo=Php&logoColor=F7DF1E" alt="Php logo" title="Php" height="25" /></span>
@@ -7,11 +8,7 @@
   <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-  &nbsp;
+
   <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -19,6 +16,18 @@
   <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+  &nbsp;
+<br>
+
+<h2 align="center">🛠 Framework and library 🛠</h2>
+<br>
+  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Angular-282C34?logo=react&logoColor=61DAFB" alt="Angular logo" title="Angular" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Express.js-282C34?logo=express.js&logoColor=4FC08D" alt="Express.js logo" title="Express.js" height="25" /></span>
   &nbsp;
 <br>
 
