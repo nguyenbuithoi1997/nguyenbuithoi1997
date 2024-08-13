@@ -27,7 +27,13 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Express-282C34?logo=express.js&logoColor=4FC08D" alt="Express.js logo" title="Express.js" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=4FC08D" alt="Express.js logo" title="Express.js" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=4FC08D" alt="Spring logo" title="spring" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=4FC08D" alt="Laravel logo" title="laravel" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Codeigniter-282C34?logo=codeigniter&logoColor=4FC08D" alt="Codeigniter logo" title="codeigniter" height="25" /></span>
   &nbsp;
 <br>
 
