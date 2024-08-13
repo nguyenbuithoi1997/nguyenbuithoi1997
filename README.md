@@ -17,7 +17,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Sql-282C34?logo=sql&logoColor=CC6699" alt="Sql logo" title="SQL" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/SQL-282C34?logo=sql&logoColor=CC6699" alt="Sql logo" title="SQL" height="25" /></span>
   &nbsp;
 <br>
 
